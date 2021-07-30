@@ -10,7 +10,7 @@ class Main
     System.out.print("Enter your rank");
     double rank = scanner.nextDouble();
     
-    System.out.printf("You are in the top %.2f \n", rank / classEwbank * 100);
+    System.out.printf("You are in the top %.2f \n", rank / classStrength * 100);
     System.out.print("% of your class.");
     
     
